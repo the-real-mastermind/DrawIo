@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="Page-1" id="KgEA69p9m97MHOAljzwE">
-    <mxGraphModel dx="872" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="230" y="360" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Pr0puLZZZiheJCNQCXYY-4" value="Shelf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="550" width="75" height="50" as="geometry" />
+          <mxGeometry x="410" y="550" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Pr0puLZZZiheJCNQCXYY-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Solid_Vol_1-2638/bxs-circle-quarter-748.svg;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="540" y="480" width="230" height="230" as="geometry" />
@@ -78,6 +78,18 @@
         </mxCell>
         <mxCell id="Pr0puLZZZiheJCNQCXYY-25" value="Bedroom" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pr0puLZZZiheJCNQCXYY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.851;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Pr0puLZZZiheJCNQCXYY-2" target="vxPe_q0jWbyT2IYPc8e5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pr0puLZZZiheJCNQCXYY-28" value="Window" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pr0puLZZZiheJCNQCXYY-29" value="Shelf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="560" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pr0puLZZZiheJCNQCXYY-31" value="Window" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="295" width="70" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
