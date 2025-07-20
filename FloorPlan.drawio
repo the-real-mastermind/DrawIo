@@ -73,6 +73,12 @@
         <mxCell id="Pr0puLZZZiheJCNQCXYY-23" value="Laundry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="660" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Pr0puLZZZiheJCNQCXYY-24" value="Closet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pr0puLZZZiheJCNQCXYY-25" value="Bedroom" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
